@@ -1,0 +1,19 @@
+{
+  "name": "ghea",
+  "version": "0.0.1",
+  "description": "Gaston Happily Ever After",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gaston test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrepadez/ghea.git"
+  },
+  "author": "andre.padez@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrepadez/ghea/issues"
+  },
+  "homepage": "https://github.com/andrepadez/ghea#readme"
+}
